@@ -1,2 +1,3 @@
-# blckcipher
-full scale application
+# blockcipher
+Full scale application built using javascript.
+Lets the user to create new transactions and mine it into a block of undefined size.
